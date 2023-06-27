@@ -1,2 +1,1 @@
-My first readme
-ls
+My first readme updated 
